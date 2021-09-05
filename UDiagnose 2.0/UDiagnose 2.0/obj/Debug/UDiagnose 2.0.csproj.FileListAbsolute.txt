@@ -1,0 +1,148 @@
+C:\Users\lambk\source\repos\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\UDiagnose 2.0.exe.config
+C:\Users\lambk\source\repos\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\UDiagnose 2.0.exe
+C:\Users\lambk\source\repos\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\UDiagnose 2.0.pdb
+C:\Users\lambk\source\repos\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csprojAssemblyReference.cache
+C:\Users\lambk\source\repos\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose_2._0.Properties.Resources.resources
+C:\Users\lambk\source\repos\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csproj.GenerateResource.cache
+C:\Users\lambk\source\repos\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csproj.CoreCompileInputs.cache
+C:\Users\lambk\source\repos\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.exe
+C:\Users\lambk\source\repos\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.pdb
+C:\Users\lambk\source\repos\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose_2._0.frmMain.resources
+E:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\UDiagnose 2.0.exe.config
+E:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\UDiagnose 2.0.exe
+E:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\UDiagnose 2.0.pdb
+E:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csprojAssemblyReference.cache
+E:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose_2._0.frmMain.resources
+E:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose_2._0.Properties.Resources.resources
+E:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csproj.GenerateResource.cache
+E:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csproj.CoreCompileInputs.cache
+E:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.exe
+E:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.pdb
+E:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ComponentFactory.Krypton.Design.dll
+E:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+E:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+E:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csproj.CopyComplete
+E:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\MetroFramework.Design.dll
+E:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\MetroFramework.dll
+E:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\MetroFramework.Fonts.dll
+F:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\UDiagnose 2.0.exe.config
+F:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\UDiagnose 2.0.exe
+F:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\UDiagnose 2.0.pdb
+F:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ComponentFactory.Krypton.Design.dll
+F:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+F:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+F:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\MetroFramework.Design.dll
+F:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\MetroFramework.dll
+F:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\MetroFramework.Fonts.dll
+F:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csprojAssemblyReference.cache
+F:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose_2._0.frmMain.resources
+F:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose_2._0.Properties.Resources.resources
+F:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csproj.GenerateResource.cache
+F:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csproj.CoreCompileInputs.cache
+F:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csproj.CopyComplete
+F:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.exe
+F:\Current Projects Not Online\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.pdb
+C:\Users\lambk\Documents\Source\Repos\UDiagnose 2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\UDiagnose 2.0.exe.config
+C:\Users\lambk\Documents\Source\Repos\UDiagnose 2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\UDiagnose 2.0.exe
+C:\Users\lambk\Documents\Source\Repos\UDiagnose 2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\UDiagnose 2.0.pdb
+C:\Users\lambk\Documents\Source\Repos\UDiagnose 2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ComponentFactory.Krypton.Design.dll
+C:\Users\lambk\Documents\Source\Repos\UDiagnose 2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\lambk\Documents\Source\Repos\UDiagnose 2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\lambk\Documents\Source\Repos\UDiagnose 2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\MetroFramework.Design.dll
+C:\Users\lambk\Documents\Source\Repos\UDiagnose 2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\MetroFramework.dll
+C:\Users\lambk\Documents\Source\Repos\UDiagnose 2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\lambk\Documents\Source\Repos\UDiagnose 2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csprojAssemblyReference.cache
+C:\Users\lambk\Documents\Source\Repos\UDiagnose 2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose_2._0.frmMain.resources
+C:\Users\lambk\Documents\Source\Repos\UDiagnose 2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose_2._0.Properties.Resources.resources
+C:\Users\lambk\Documents\Source\Repos\UDiagnose 2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csproj.GenerateResource.cache
+C:\Users\lambk\Documents\Source\Repos\UDiagnose 2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csproj.CoreCompileInputs.cache
+C:\Users\lambk\Documents\Source\Repos\UDiagnose 2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csproj.CopyComplete
+C:\Users\lambk\Documents\Source\Repos\UDiagnose 2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.exe
+C:\Users\lambk\Documents\Source\Repos\UDiagnose 2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.pdb
+C:\Users\lambk\Documents\Source\Repos\UDiagnose 2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose_2._0.Forms.frmSplashScreen.resources
+C:\Users\lambk\Documents\Source\Repos\UDiagnose 2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ManagedCuda.dll
+C:\Users\lambk\Documents\Source\Repos\UDiagnose 2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ManagedCuda.xml
+C:\Users\slurr\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\UDiagnose 2.0.exe.config
+C:\Users\slurr\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\UDiagnose 2.0.exe
+C:\Users\slurr\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\UDiagnose 2.0.pdb
+C:\Users\slurr\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ComponentFactory.Krypton.Design.dll
+C:\Users\slurr\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\slurr\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\slurr\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ManagedCuda.dll
+C:\Users\slurr\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\MetroFramework.Design.dll
+C:\Users\slurr\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\MetroFramework.dll
+C:\Users\slurr\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\slurr\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ManagedCuda.xml
+C:\Users\slurr\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csprojAssemblyReference.cache
+C:\Users\slurr\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose_2._0.frmMain.resources
+C:\Users\slurr\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose_2._0.Forms.frmSplashScreen.resources
+C:\Users\slurr\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose_2._0.Properties.Resources.resources
+C:\Users\slurr\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csproj.GenerateResource.cache
+C:\Users\slurr\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csproj.CoreCompileInputs.cache
+C:\Users\slurr\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csproj.CopyComplete
+C:\Users\slurr\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.exe
+C:\Users\slurr\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.pdb
+C:\Users\lambk\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\UDiagnose 2.0.exe.config
+C:\Users\lambk\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\UDiagnose 2.0.exe
+C:\Users\lambk\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\UDiagnose 2.0.pdb
+C:\Users\lambk\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ComponentFactory.Krypton.Design.dll
+C:\Users\lambk\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\lambk\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\lambk\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ManagedCuda.dll
+C:\Users\lambk\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\MetroFramework.Design.dll
+C:\Users\lambk\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\MetroFramework.dll
+C:\Users\lambk\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\lambk\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ManagedCuda.xml
+C:\Users\lambk\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csprojAssemblyReference.cache
+C:\Users\lambk\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose_2._0.frmMain.resources
+C:\Users\lambk\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose_2._0.Forms.frmSplashScreen.resources
+C:\Users\lambk\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose_2._0.Properties.Resources.resources
+C:\Users\lambk\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csproj.GenerateResource.cache
+C:\Users\lambk\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csproj.CoreCompileInputs.cache
+C:\Users\lambk\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csproj.CopyComplete
+C:\Users\lambk\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.exe
+C:\Users\lambk\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.pdb
+C:\Users\klamb\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose_2._0.frmMain.resources
+C:\Users\klamb\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose_2._0.Forms.frmSplashScreen.resources
+C:\Users\klamb\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose_2._0.Forms.frmTOS.resources
+C:\Users\klamb\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose_2._0.Properties.Resources.resources
+C:\Users\klamb\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csproj.GenerateResource.cache
+C:\Users\klamb\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csproj.CoreCompileInputs.cache
+C:\Users\klamb\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\UDiagnose 2.0.exe.config
+C:\Users\klamb\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\UDiagnose 2.0.exe
+C:\Users\klamb\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\UDiagnose 2.0.pdb
+C:\Users\klamb\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ComponentFactory.Krypton.Design.dll
+C:\Users\klamb\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\klamb\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\klamb\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ManagedCuda.dll
+C:\Users\klamb\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\MetroFramework.Design.dll
+C:\Users\klamb\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\MetroFramework.dll
+C:\Users\klamb\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\klamb\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ManagedCuda.xml
+C:\Users\klamb\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csproj.CopyComplete
+C:\Users\klamb\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.exe
+C:\Users\klamb\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.pdb
+C:\Users\klamb\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csprojAssemblyReference.cache
+C:\Users\slurr\Source\Repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose_2._0.Forms.frmTOS.resources
+D:\GitLab\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\UDiagnose 2.0.exe.config
+D:\GitLab\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\UDiagnose 2.0.exe
+D:\GitLab\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\UDiagnose 2.0.pdb
+D:\GitLab\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ComponentFactory.Krypton.Design.dll
+D:\GitLab\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\GitLab\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\GitLab\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ManagedCuda.dll
+D:\GitLab\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\MetroFramework.Design.dll
+D:\GitLab\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\MetroFramework.dll
+D:\GitLab\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\MetroFramework.Fonts.dll
+D:\GitLab\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ManagedCuda.xml
+D:\GitLab\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csprojAssemblyReference.cache
+D:\GitLab\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose_2._0.frmMain.resources
+D:\GitLab\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose_2._0.Forms.frmSplashScreen.resources
+D:\GitLab\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose_2._0.Forms.frmTOS.resources
+D:\GitLab\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose_2._0.Properties.Resources.resources
+D:\GitLab\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csproj.GenerateResource.cache
+D:\GitLab\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csproj.CoreCompileInputs.cache
+D:\GitLab\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csproj.CopyComplete
+D:\GitLab\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.exe
+D:\GitLab\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.pdb
+C:\Users\klamb\source\repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ExtendedControls.dll
