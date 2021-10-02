@@ -168,3 +168,4 @@ D:\GitHub\FreeCodeCamp\Udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiag
 D:\GitHub\FreeCodeCamp\Udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csproj.CopyComplete
 D:\GitHub\FreeCodeCamp\Udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.exe
 D:\GitHub\FreeCodeCamp\Udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.pdb
+D:\GitHub\FreeCodeCamp\Udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\Extended Controls.dll

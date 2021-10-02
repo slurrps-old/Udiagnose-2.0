@@ -48,6 +48,9 @@
     <Reference Include="ComponentFactory.Krypton.Toolkit">
       <HintPath>References\ComponentFactory.Krypton.Toolkit.dll</HintPath>
     </Reference>
+    <Reference Include="Extended Controls">
+      <HintPath>Dll\Extended Controls.dll</HintPath>
+    </Reference>
     <Reference Include="ExtendedControls">
       <HintPath>Dll\ExtendedControls.dll</HintPath>
     </Reference>
