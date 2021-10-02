@@ -30,8 +30,6 @@ namespace UDiagnose_2._0
         //Form Load
         private void frmMain_Load(object sender, EventArgs e)
         {
-            //Load the menuStrip colors
-            mainMenuStrip.LoadColors();
 
             //Set all default pages to the first page in each tabbed control
             ComputerHardwareNav.SelectedPage = ComputerHardwareNav.Pages[0];

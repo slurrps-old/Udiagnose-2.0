@@ -146,3 +146,25 @@ D:\GitLab\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\obj\Debug
 D:\GitLab\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.exe
 D:\GitLab\Source\Repos\udiagnose-2.0Master\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.pdb
 C:\Users\klamb\source\repos\udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ExtendedControls.dll
+D:\GitHub\FreeCodeCamp\Udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\UDiagnose 2.0.exe.config
+D:\GitHub\FreeCodeCamp\Udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\UDiagnose 2.0.exe
+D:\GitHub\FreeCodeCamp\Udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\UDiagnose 2.0.pdb
+D:\GitHub\FreeCodeCamp\Udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ComponentFactory.Krypton.Design.dll
+D:\GitHub\FreeCodeCamp\Udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\GitHub\FreeCodeCamp\Udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\GitHub\FreeCodeCamp\Udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ExtendedControls.dll
+D:\GitHub\FreeCodeCamp\Udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ManagedCuda.dll
+D:\GitHub\FreeCodeCamp\Udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\MetroFramework.Design.dll
+D:\GitHub\FreeCodeCamp\Udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\MetroFramework.dll
+D:\GitHub\FreeCodeCamp\Udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\MetroFramework.Fonts.dll
+D:\GitHub\FreeCodeCamp\Udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\bin\Debug\ManagedCuda.xml
+D:\GitHub\FreeCodeCamp\Udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csproj.AssemblyReference.cache
+D:\GitHub\FreeCodeCamp\Udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose_2._0.frmMain.resources
+D:\GitHub\FreeCodeCamp\Udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose_2._0.Forms.frmSplashScreen.resources
+D:\GitHub\FreeCodeCamp\Udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose_2._0.Forms.frmTOS.resources
+D:\GitHub\FreeCodeCamp\Udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose_2._0.Properties.Resources.resources
+D:\GitHub\FreeCodeCamp\Udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csproj.GenerateResource.cache
+D:\GitHub\FreeCodeCamp\Udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csproj.CoreCompileInputs.cache
+D:\GitHub\FreeCodeCamp\Udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.csproj.CopyComplete
+D:\GitHub\FreeCodeCamp\Udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.exe
+D:\GitHub\FreeCodeCamp\Udiagnose-2.0\UDiagnose 2.0\UDiagnose 2.0\obj\Debug\UDiagnose 2.0.pdb

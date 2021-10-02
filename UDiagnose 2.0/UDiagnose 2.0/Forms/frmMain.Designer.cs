@@ -30,56 +30,56 @@ namespace UDiagnose_2._0
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Title title1 = new System.Windows.Forms.DataVisualization.Charting.Title();
-            System.Windows.Forms.TreeNode treeNode1 = new System.Windows.Forms.TreeNode("System");
-            System.Windows.Forms.TreeNode treeNode2 = new System.Windows.Forms.TreeNode("Operating System");
-            System.Windows.Forms.TreeNode treeNode3 = new System.Windows.Forms.TreeNode("CPU");
-            System.Windows.Forms.TreeNode treeNode4 = new System.Windows.Forms.TreeNode("Motherboard");
-            System.Windows.Forms.TreeNode treeNode5 = new System.Windows.Forms.TreeNode("BIOS");
-            System.Windows.Forms.TreeNode treeNode6 = new System.Windows.Forms.TreeNode("RAM");
-            System.Windows.Forms.TreeNode treeNode7 = new System.Windows.Forms.TreeNode("GPU");
-            System.Windows.Forms.TreeNode treeNode8 = new System.Windows.Forms.TreeNode("Hardware Information", new System.Windows.Forms.TreeNode[] {
-            treeNode1,
-            treeNode2,
-            treeNode3,
-            treeNode4,
-            treeNode5,
-            treeNode6,
-            treeNode7});
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Series series3 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Series series4 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Series series5 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Title title2 = new System.Windows.Forms.DataVisualization.Charting.Title();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea3 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend3 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series6 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Title title3 = new System.Windows.Forms.DataVisualization.Charting.Title();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea4 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend4 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series7 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Title title4 = new System.Windows.Forms.DataVisualization.Charting.Title();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea5 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend5 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series8 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Title title5 = new System.Windows.Forms.DataVisualization.Charting.Title();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea6 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend6 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series9 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Title title6 = new System.Windows.Forms.DataVisualization.Charting.Title();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea7 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend7 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series10 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Title title7 = new System.Windows.Forms.DataVisualization.Charting.Title();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea8 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend8 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series11 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Title title8 = new System.Windows.Forms.DataVisualization.Charting.Title();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea9 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend9 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series12 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Title title9 = new System.Windows.Forms.DataVisualization.Charting.Title();
+            System.Windows.Forms.TreeNode treeNode9 = new System.Windows.Forms.TreeNode("System");
+            System.Windows.Forms.TreeNode treeNode10 = new System.Windows.Forms.TreeNode("Operating System");
+            System.Windows.Forms.TreeNode treeNode11 = new System.Windows.Forms.TreeNode("CPU");
+            System.Windows.Forms.TreeNode treeNode12 = new System.Windows.Forms.TreeNode("Motherboard");
+            System.Windows.Forms.TreeNode treeNode13 = new System.Windows.Forms.TreeNode("BIOS");
+            System.Windows.Forms.TreeNode treeNode14 = new System.Windows.Forms.TreeNode("RAM");
+            System.Windows.Forms.TreeNode treeNode15 = new System.Windows.Forms.TreeNode("GPU");
+            System.Windows.Forms.TreeNode treeNode16 = new System.Windows.Forms.TreeNode("Hardware Information", new System.Windows.Forms.TreeNode[] {
+            treeNode9,
+            treeNode10,
+            treeNode11,
+            treeNode12,
+            treeNode13,
+            treeNode14,
+            treeNode15});
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea10 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend10 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series13 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Series series14 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Series series15 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Series series16 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Title title10 = new System.Windows.Forms.DataVisualization.Charting.Title();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea11 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend11 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series17 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Title title11 = new System.Windows.Forms.DataVisualization.Charting.Title();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea12 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend12 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series18 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Title title12 = new System.Windows.Forms.DataVisualization.Charting.Title();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea13 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend13 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series19 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Title title13 = new System.Windows.Forms.DataVisualization.Charting.Title();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea14 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend14 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series20 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Title title14 = new System.Windows.Forms.DataVisualization.Charting.Title();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea15 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend15 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series21 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Title title15 = new System.Windows.Forms.DataVisualization.Charting.Title();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea16 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend16 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series22 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Title title16 = new System.Windows.Forms.DataVisualization.Charting.Title();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmMain));
             this.ComputerHardwareNav = new ComponentFactory.Krypton.Navigator.KryptonNavigator();
             this.pgDrives = new ComponentFactory.Krypton.Navigator.KryptonPage();
@@ -180,7 +180,7 @@ namespace UDiagnose_2._0
             this.lblVersion = new System.Windows.Forms.Label();
             this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
             this.CustomToolTip = new MetroFramework.Components.MetroToolTip();
-            this.mainMenuStrip = new menuStripExtended.MenuStripExtended();
+            this.mainMenuStrip = new ExtendedControls.MenuStripExtended();
             this.fileToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.saveToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
@@ -190,11 +190,14 @@ namespace UDiagnose_2._0
             this.cMDToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.regeditToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.eventViewerToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.recordToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.optionsToolStripMenuItem2 = new System.Windows.Forms.ToolStripMenuItem();
             this.settingsToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.helpToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.licenseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.aboutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.startRecordingDataToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.stopRecordingDataToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)(this.ComputerHardwareNav)).BeginInit();
             this.ComputerHardwareNav.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pgDrives)).BeginInit();
@@ -359,66 +362,66 @@ namespace UDiagnose_2._0
             // 
             this.chartDrive.BackColor = System.Drawing.Color.Transparent;
             this.chartDrive.BorderSkin.BackColor = System.Drawing.Color.White;
-            chartArea1.AxisX.IsLabelAutoFit = false;
-            chartArea1.AxisX.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea1.AxisX.LabelStyle.ForeColor = System.Drawing.Color.White;
-            chartArea1.AxisX.LineColor = System.Drawing.Color.White;
-            chartArea1.AxisX.MajorGrid.LineColor = System.Drawing.Color.White;
-            chartArea1.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
-            chartArea1.AxisX.MajorTickMark.LineColor = System.Drawing.Color.White;
-            chartArea1.AxisX.MinorGrid.LineColor = System.Drawing.Color.White;
-            chartArea1.AxisX.Title = "Time in Seconds";
-            chartArea1.AxisX.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea1.AxisX.TitleForeColor = System.Drawing.Color.White;
-            chartArea1.AxisX2.LineColor = System.Drawing.Color.White;
-            chartArea1.AxisY.IsLabelAutoFit = false;
-            chartArea1.AxisY.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea1.AxisY.LabelStyle.ForeColor = System.Drawing.Color.White;
-            chartArea1.AxisY.LineColor = System.Drawing.Color.White;
-            chartArea1.AxisY.MajorGrid.LineColor = System.Drawing.Color.White;
-            chartArea1.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
-            chartArea1.AxisY.MajorTickMark.LineColor = System.Drawing.Color.White;
-            chartArea1.AxisY.Maximum = 100D;
-            chartArea1.AxisY.MinorGrid.LineColor = System.Drawing.Color.White;
-            chartArea1.AxisY.Title = "Active Time";
-            chartArea1.AxisY.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea1.AxisY.TitleForeColor = System.Drawing.Color.White;
-            chartArea1.AxisY2.LineColor = System.Drawing.Color.White;
-            chartArea1.BackColor = System.Drawing.Color.Transparent;
-            chartArea1.BorderColor = System.Drawing.Color.White;
-            chartArea1.Name = "CPUArea";
-            chartArea1.ShadowColor = System.Drawing.Color.White;
-            this.chartDrive.ChartAreas.Add(chartArea1);
-            legend1.Enabled = false;
-            legend1.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            legend1.IsTextAutoFit = false;
-            legend1.Name = "Legend1";
-            legend1.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.chartDrive.Legends.Add(legend1);
+            chartArea9.AxisX.IsLabelAutoFit = false;
+            chartArea9.AxisX.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea9.AxisX.LabelStyle.ForeColor = System.Drawing.Color.White;
+            chartArea9.AxisX.LineColor = System.Drawing.Color.White;
+            chartArea9.AxisX.MajorGrid.LineColor = System.Drawing.Color.White;
+            chartArea9.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
+            chartArea9.AxisX.MajorTickMark.LineColor = System.Drawing.Color.White;
+            chartArea9.AxisX.MinorGrid.LineColor = System.Drawing.Color.White;
+            chartArea9.AxisX.Title = "Time in Seconds";
+            chartArea9.AxisX.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea9.AxisX.TitleForeColor = System.Drawing.Color.White;
+            chartArea9.AxisX2.LineColor = System.Drawing.Color.White;
+            chartArea9.AxisY.IsLabelAutoFit = false;
+            chartArea9.AxisY.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea9.AxisY.LabelStyle.ForeColor = System.Drawing.Color.White;
+            chartArea9.AxisY.LineColor = System.Drawing.Color.White;
+            chartArea9.AxisY.MajorGrid.LineColor = System.Drawing.Color.White;
+            chartArea9.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
+            chartArea9.AxisY.MajorTickMark.LineColor = System.Drawing.Color.White;
+            chartArea9.AxisY.Maximum = 100D;
+            chartArea9.AxisY.MinorGrid.LineColor = System.Drawing.Color.White;
+            chartArea9.AxisY.Title = "Active Time";
+            chartArea9.AxisY.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea9.AxisY.TitleForeColor = System.Drawing.Color.White;
+            chartArea9.AxisY2.LineColor = System.Drawing.Color.White;
+            chartArea9.BackColor = System.Drawing.Color.Transparent;
+            chartArea9.BorderColor = System.Drawing.Color.White;
+            chartArea9.Name = "CPUArea";
+            chartArea9.ShadowColor = System.Drawing.Color.White;
+            this.chartDrive.ChartAreas.Add(chartArea9);
+            legend9.Enabled = false;
+            legend9.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            legend9.IsTextAutoFit = false;
+            legend9.Name = "Legend1";
+            legend9.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.chartDrive.Legends.Add(legend9);
             this.chartDrive.Location = new System.Drawing.Point(509, 304);
             this.chartDrive.Name = "chartDrive";
             this.chartDrive.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.None;
             this.chartDrive.PaletteCustomColors = new System.Drawing.Color[] {
         System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))))};
-            series1.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
-            series1.ChartArea = "CPUArea";
-            series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Area;
-            series1.EmptyPointStyle.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
-            series1.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            series1.LabelBackColor = System.Drawing.Color.Transparent;
-            series1.LabelBorderColor = System.Drawing.Color.Transparent;
-            series1.LabelForeColor = System.Drawing.Color.Transparent;
-            series1.Legend = "Legend1";
-            series1.Name = "Drive";
-            series1.ShadowColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.chartDrive.Series.Add(series1);
+            series12.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
+            series12.ChartArea = "CPUArea";
+            series12.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Area;
+            series12.EmptyPointStyle.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
+            series12.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            series12.LabelBackColor = System.Drawing.Color.Transparent;
+            series12.LabelBorderColor = System.Drawing.Color.Transparent;
+            series12.LabelForeColor = System.Drawing.Color.Transparent;
+            series12.Legend = "Legend1";
+            series12.Name = "Drive";
+            series12.ShadowColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.chartDrive.Series.Add(series12);
             this.chartDrive.Size = new System.Drawing.Size(668, 325);
             this.chartDrive.TabIndex = 45;
             this.chartDrive.TabStop = false;
             this.chartDrive.Text = "CPU Utilization";
-            title1.ForeColor = System.Drawing.Color.White;
-            title1.Name = "CPU Utilization";
-            this.chartDrive.Titles.Add(title1);
+            title9.ForeColor = System.Drawing.Color.White;
+            title9.Name = "CPU Utilization";
+            this.chartDrive.Titles.Add(title9);
             this.CustomToolTip.SetToolTip(this.chartDrive, "Percent active time as a graph.");
             // 
             // lblDiskWriteSpeed
@@ -671,24 +674,24 @@ namespace UDiagnose_2._0
             this.treeHardwareInfo.ForeColor = System.Drawing.Color.White;
             this.treeHardwareInfo.Location = new System.Drawing.Point(0, 0);
             this.treeHardwareInfo.Name = "treeHardwareInfo";
-            treeNode1.Name = "Node0";
-            treeNode1.Text = "System";
-            treeNode2.Name = "Node1";
-            treeNode2.Text = "Operating System";
-            treeNode3.Name = "Node2";
-            treeNode3.Text = "CPU";
-            treeNode4.Name = "Node3";
-            treeNode4.Text = "Motherboard";
-            treeNode5.Name = "Node4";
-            treeNode5.Text = "BIOS";
-            treeNode6.Name = "Node5";
-            treeNode6.Text = "RAM";
-            treeNode7.Name = "Node6";
-            treeNode7.Text = "GPU";
-            treeNode8.Name = "Node0";
-            treeNode8.Text = "Hardware Information";
+            treeNode9.Name = "Node0";
+            treeNode9.Text = "System";
+            treeNode10.Name = "Node1";
+            treeNode10.Text = "Operating System";
+            treeNode11.Name = "Node2";
+            treeNode11.Text = "CPU";
+            treeNode12.Name = "Node3";
+            treeNode12.Text = "Motherboard";
+            treeNode13.Name = "Node4";
+            treeNode13.Text = "BIOS";
+            treeNode14.Name = "Node5";
+            treeNode14.Text = "RAM";
+            treeNode15.Name = "Node6";
+            treeNode15.Text = "GPU";
+            treeNode16.Name = "Node0";
+            treeNode16.Text = "Hardware Information";
             this.treeHardwareInfo.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
-            treeNode8});
+            treeNode16});
             this.treeHardwareInfo.Size = new System.Drawing.Size(1179, 600);
             this.treeHardwareInfo.TabIndex = 8;
             this.treeHardwareInfo.TabStop = false;
@@ -953,40 +956,40 @@ namespace UDiagnose_2._0
             // 
             this.chartOVERVIEW.BackColor = System.Drawing.Color.Transparent;
             this.chartOVERVIEW.BorderSkin.BackColor = System.Drawing.Color.White;
-            chartArea2.AxisX.IsLabelAutoFit = false;
-            chartArea2.AxisX.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea2.AxisX.LabelStyle.ForeColor = System.Drawing.Color.White;
-            chartArea2.AxisX.LineColor = System.Drawing.Color.White;
-            chartArea2.AxisX.MajorGrid.LineColor = System.Drawing.Color.White;
-            chartArea2.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
-            chartArea2.AxisX.MajorTickMark.LineColor = System.Drawing.Color.White;
-            chartArea2.AxisX.MinorGrid.LineColor = System.Drawing.Color.White;
-            chartArea2.AxisX.Title = "Time in Seconds";
-            chartArea2.AxisX.TitleFont = new System.Drawing.Font("Gadugi", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea2.AxisX.TitleForeColor = System.Drawing.Color.White;
-            chartArea2.AxisX2.LineColor = System.Drawing.Color.White;
-            chartArea2.AxisY.IsLabelAutoFit = false;
-            chartArea2.AxisY.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea2.AxisY.LabelStyle.ForeColor = System.Drawing.Color.White;
-            chartArea2.AxisY.LineColor = System.Drawing.Color.White;
-            chartArea2.AxisY.MajorGrid.LineColor = System.Drawing.Color.White;
-            chartArea2.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
-            chartArea2.AxisY.MajorTickMark.LineColor = System.Drawing.Color.White;
-            chartArea2.AxisY.Maximum = 100D;
-            chartArea2.AxisY.MinorGrid.LineColor = System.Drawing.Color.White;
-            chartArea2.AxisY.Title = "System Utilization %";
-            chartArea2.AxisY.TitleFont = new System.Drawing.Font("Gadugi", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea2.AxisY.TitleForeColor = System.Drawing.Color.White;
-            chartArea2.AxisY2.LineColor = System.Drawing.Color.White;
-            chartArea2.BackColor = System.Drawing.Color.Transparent;
-            chartArea2.BorderColor = System.Drawing.Color.White;
-            chartArea2.Name = "Overview";
-            chartArea2.ShadowColor = System.Drawing.Color.White;
-            this.chartOVERVIEW.ChartAreas.Add(chartArea2);
-            legend2.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            legend2.IsTextAutoFit = false;
-            legend2.Name = "Legend1";
-            this.chartOVERVIEW.Legends.Add(legend2);
+            chartArea10.AxisX.IsLabelAutoFit = false;
+            chartArea10.AxisX.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea10.AxisX.LabelStyle.ForeColor = System.Drawing.Color.White;
+            chartArea10.AxisX.LineColor = System.Drawing.Color.White;
+            chartArea10.AxisX.MajorGrid.LineColor = System.Drawing.Color.White;
+            chartArea10.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
+            chartArea10.AxisX.MajorTickMark.LineColor = System.Drawing.Color.White;
+            chartArea10.AxisX.MinorGrid.LineColor = System.Drawing.Color.White;
+            chartArea10.AxisX.Title = "Time in Seconds";
+            chartArea10.AxisX.TitleFont = new System.Drawing.Font("Gadugi", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea10.AxisX.TitleForeColor = System.Drawing.Color.White;
+            chartArea10.AxisX2.LineColor = System.Drawing.Color.White;
+            chartArea10.AxisY.IsLabelAutoFit = false;
+            chartArea10.AxisY.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea10.AxisY.LabelStyle.ForeColor = System.Drawing.Color.White;
+            chartArea10.AxisY.LineColor = System.Drawing.Color.White;
+            chartArea10.AxisY.MajorGrid.LineColor = System.Drawing.Color.White;
+            chartArea10.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
+            chartArea10.AxisY.MajorTickMark.LineColor = System.Drawing.Color.White;
+            chartArea10.AxisY.Maximum = 100D;
+            chartArea10.AxisY.MinorGrid.LineColor = System.Drawing.Color.White;
+            chartArea10.AxisY.Title = "System Utilization %";
+            chartArea10.AxisY.TitleFont = new System.Drawing.Font("Gadugi", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea10.AxisY.TitleForeColor = System.Drawing.Color.White;
+            chartArea10.AxisY2.LineColor = System.Drawing.Color.White;
+            chartArea10.BackColor = System.Drawing.Color.Transparent;
+            chartArea10.BorderColor = System.Drawing.Color.White;
+            chartArea10.Name = "Overview";
+            chartArea10.ShadowColor = System.Drawing.Color.White;
+            this.chartOVERVIEW.ChartAreas.Add(chartArea10);
+            legend10.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            legend10.IsTextAutoFit = false;
+            legend10.Name = "Legend1";
+            this.chartOVERVIEW.Legends.Add(legend10);
             this.chartOVERVIEW.Location = new System.Drawing.Point(-1, 52);
             this.chartOVERVIEW.Name = "chartOVERVIEW";
             this.chartOVERVIEW.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.None;
@@ -995,42 +998,42 @@ namespace UDiagnose_2._0
         System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128))))),
         System.Drawing.Color.LawnGreen,
         System.Drawing.Color.Aqua};
-            series2.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
-            series2.ChartArea = "Overview";
-            series2.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Area;
-            series2.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            series2.Legend = "Legend1";
-            series2.Name = "RAM";
-            series3.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
-            series3.ChartArea = "Overview";
-            series3.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Area;
-            series3.Legend = "Legend1";
-            series3.Name = "Drive";
-            series4.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
-            series4.ChartArea = "Overview";
-            series4.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Area;
-            series4.Legend = "Legend1";
-            series4.Name = "GPU";
-            series5.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
-            series5.ChartArea = "Overview";
-            series5.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Area;
-            series5.EmptyPointStyle.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
-            series5.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            series5.LabelBackColor = System.Drawing.Color.Transparent;
-            series5.LabelBorderColor = System.Drawing.Color.Transparent;
-            series5.LabelForeColor = System.Drawing.Color.White;
-            series5.Legend = "Legend1";
-            series5.Name = "CPU";
-            this.chartOVERVIEW.Series.Add(series2);
-            this.chartOVERVIEW.Series.Add(series3);
-            this.chartOVERVIEW.Series.Add(series4);
-            this.chartOVERVIEW.Series.Add(series5);
+            series13.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
+            series13.ChartArea = "Overview";
+            series13.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Area;
+            series13.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            series13.Legend = "Legend1";
+            series13.Name = "RAM";
+            series14.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
+            series14.ChartArea = "Overview";
+            series14.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Area;
+            series14.Legend = "Legend1";
+            series14.Name = "Drive";
+            series15.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
+            series15.ChartArea = "Overview";
+            series15.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Area;
+            series15.Legend = "Legend1";
+            series15.Name = "GPU";
+            series16.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
+            series16.ChartArea = "Overview";
+            series16.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Area;
+            series16.EmptyPointStyle.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
+            series16.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            series16.LabelBackColor = System.Drawing.Color.Transparent;
+            series16.LabelBorderColor = System.Drawing.Color.Transparent;
+            series16.LabelForeColor = System.Drawing.Color.White;
+            series16.Legend = "Legend1";
+            series16.Name = "CPU";
+            this.chartOVERVIEW.Series.Add(series13);
+            this.chartOVERVIEW.Series.Add(series14);
+            this.chartOVERVIEW.Series.Add(series15);
+            this.chartOVERVIEW.Series.Add(series16);
             this.chartOVERVIEW.Size = new System.Drawing.Size(1179, 485);
             this.chartOVERVIEW.TabIndex = 9;
             this.chartOVERVIEW.Text = "Usage Chart";
-            title2.ForeColor = System.Drawing.Color.White;
-            title2.Name = "System Loads";
-            this.chartOVERVIEW.Titles.Add(title2);
+            title10.ForeColor = System.Drawing.Color.White;
+            title10.Name = "System Loads";
+            this.chartOVERVIEW.Titles.Add(title10);
             // 
             // pgCPU
             // 
@@ -1340,42 +1343,42 @@ namespace UDiagnose_2._0
             // 
             this.chartCPU.BackColor = System.Drawing.Color.Transparent;
             this.chartCPU.BorderSkin.BackColor = System.Drawing.Color.White;
-            chartArea3.AxisX.IsLabelAutoFit = false;
-            chartArea3.AxisX.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea3.AxisX.LabelStyle.ForeColor = System.Drawing.Color.White;
-            chartArea3.AxisX.LineColor = System.Drawing.Color.White;
-            chartArea3.AxisX.MajorGrid.LineColor = System.Drawing.Color.White;
-            chartArea3.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
-            chartArea3.AxisX.MajorTickMark.LineColor = System.Drawing.Color.White;
-            chartArea3.AxisX.MinorGrid.LineColor = System.Drawing.Color.White;
-            chartArea3.AxisX.Title = "Time in Seconds";
-            chartArea3.AxisX.TitleFont = new System.Drawing.Font("Gadugi", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea3.AxisX.TitleForeColor = System.Drawing.Color.White;
-            chartArea3.AxisX2.LineColor = System.Drawing.Color.White;
-            chartArea3.AxisY.IsLabelAutoFit = false;
-            chartArea3.AxisY.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea3.AxisY.LabelStyle.ForeColor = System.Drawing.Color.White;
-            chartArea3.AxisY.LineColor = System.Drawing.Color.White;
-            chartArea3.AxisY.MajorGrid.LineColor = System.Drawing.Color.White;
-            chartArea3.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
-            chartArea3.AxisY.MajorTickMark.LineColor = System.Drawing.Color.White;
-            chartArea3.AxisY.Maximum = 100D;
-            chartArea3.AxisY.MinorGrid.LineColor = System.Drawing.Color.White;
-            chartArea3.AxisY.Title = "CPU Utilization %";
-            chartArea3.AxisY.TitleFont = new System.Drawing.Font("Gadugi", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea3.AxisY.TitleForeColor = System.Drawing.Color.White;
-            chartArea3.AxisY2.LineColor = System.Drawing.Color.White;
-            chartArea3.BackColor = System.Drawing.Color.Transparent;
-            chartArea3.BorderColor = System.Drawing.Color.White;
-            chartArea3.Name = "CPUArea";
-            chartArea3.ShadowColor = System.Drawing.Color.White;
-            this.chartCPU.ChartAreas.Add(chartArea3);
-            legend3.Enabled = false;
-            legend3.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            legend3.IsTextAutoFit = false;
-            legend3.Name = "Legend1";
-            legend3.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.chartCPU.Legends.Add(legend3);
+            chartArea11.AxisX.IsLabelAutoFit = false;
+            chartArea11.AxisX.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea11.AxisX.LabelStyle.ForeColor = System.Drawing.Color.White;
+            chartArea11.AxisX.LineColor = System.Drawing.Color.White;
+            chartArea11.AxisX.MajorGrid.LineColor = System.Drawing.Color.White;
+            chartArea11.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
+            chartArea11.AxisX.MajorTickMark.LineColor = System.Drawing.Color.White;
+            chartArea11.AxisX.MinorGrid.LineColor = System.Drawing.Color.White;
+            chartArea11.AxisX.Title = "Time in Seconds";
+            chartArea11.AxisX.TitleFont = new System.Drawing.Font("Gadugi", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea11.AxisX.TitleForeColor = System.Drawing.Color.White;
+            chartArea11.AxisX2.LineColor = System.Drawing.Color.White;
+            chartArea11.AxisY.IsLabelAutoFit = false;
+            chartArea11.AxisY.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea11.AxisY.LabelStyle.ForeColor = System.Drawing.Color.White;
+            chartArea11.AxisY.LineColor = System.Drawing.Color.White;
+            chartArea11.AxisY.MajorGrid.LineColor = System.Drawing.Color.White;
+            chartArea11.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
+            chartArea11.AxisY.MajorTickMark.LineColor = System.Drawing.Color.White;
+            chartArea11.AxisY.Maximum = 100D;
+            chartArea11.AxisY.MinorGrid.LineColor = System.Drawing.Color.White;
+            chartArea11.AxisY.Title = "CPU Utilization %";
+            chartArea11.AxisY.TitleFont = new System.Drawing.Font("Gadugi", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea11.AxisY.TitleForeColor = System.Drawing.Color.White;
+            chartArea11.AxisY2.LineColor = System.Drawing.Color.White;
+            chartArea11.BackColor = System.Drawing.Color.Transparent;
+            chartArea11.BorderColor = System.Drawing.Color.White;
+            chartArea11.Name = "CPUArea";
+            chartArea11.ShadowColor = System.Drawing.Color.White;
+            this.chartCPU.ChartAreas.Add(chartArea11);
+            legend11.Enabled = false;
+            legend11.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            legend11.IsTextAutoFit = false;
+            legend11.Name = "Legend1";
+            legend11.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.chartCPU.Legends.Add(legend11);
             this.chartCPU.Location = new System.Drawing.Point(3, 3);
             this.chartCPU.Name = "chartCPU";
             this.chartCPU.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.None;
@@ -1384,25 +1387,25 @@ namespace UDiagnose_2._0
         System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255))))),
         System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128))))),
         System.Drawing.Color.LawnGreen};
-            series6.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
-            series6.ChartArea = "CPUArea";
-            series6.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Area;
-            series6.EmptyPointStyle.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
-            series6.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            series6.LabelBackColor = System.Drawing.Color.Transparent;
-            series6.LabelBorderColor = System.Drawing.Color.Transparent;
-            series6.LabelForeColor = System.Drawing.Color.White;
-            series6.Legend = "Legend1";
-            series6.Name = "CPU";
-            series6.ShadowColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.chartCPU.Series.Add(series6);
+            series17.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
+            series17.ChartArea = "CPUArea";
+            series17.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Area;
+            series17.EmptyPointStyle.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
+            series17.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            series17.LabelBackColor = System.Drawing.Color.Transparent;
+            series17.LabelBorderColor = System.Drawing.Color.Transparent;
+            series17.LabelForeColor = System.Drawing.Color.White;
+            series17.Legend = "Legend1";
+            series17.Name = "CPU";
+            series17.ShadowColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.chartCPU.Series.Add(series17);
             this.chartCPU.Size = new System.Drawing.Size(1175, 450);
             this.chartCPU.TabIndex = 10;
             this.chartCPU.TabStop = false;
             this.chartCPU.Text = "CPU Utilization";
-            title3.ForeColor = System.Drawing.Color.White;
-            title3.Name = "CPU Utilization";
-            this.chartCPU.Titles.Add(title3);
+            title11.ForeColor = System.Drawing.Color.White;
+            title11.Name = "CPU Utilization";
+            this.chartCPU.Titles.Add(title11);
             // 
             // pgRam
             // 
@@ -1712,66 +1715,66 @@ namespace UDiagnose_2._0
             // 
             this.chartRAM.BackColor = System.Drawing.Color.Transparent;
             this.chartRAM.BorderSkin.BackColor = System.Drawing.Color.White;
-            chartArea4.AxisX.IsLabelAutoFit = false;
-            chartArea4.AxisX.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea4.AxisX.LabelStyle.ForeColor = System.Drawing.Color.White;
-            chartArea4.AxisX.LineColor = System.Drawing.Color.White;
-            chartArea4.AxisX.MajorGrid.LineColor = System.Drawing.Color.White;
-            chartArea4.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
-            chartArea4.AxisX.MajorTickMark.LineColor = System.Drawing.Color.White;
-            chartArea4.AxisX.MinorGrid.LineColor = System.Drawing.Color.White;
-            chartArea4.AxisX.Title = "Time in Seconds";
-            chartArea4.AxisX.TitleFont = new System.Drawing.Font("Gadugi", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea4.AxisX.TitleForeColor = System.Drawing.Color.White;
-            chartArea4.AxisX2.LineColor = System.Drawing.Color.White;
-            chartArea4.AxisY.IsLabelAutoFit = false;
-            chartArea4.AxisY.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea4.AxisY.LabelStyle.ForeColor = System.Drawing.Color.White;
-            chartArea4.AxisY.LineColor = System.Drawing.Color.White;
-            chartArea4.AxisY.MajorGrid.LineColor = System.Drawing.Color.White;
-            chartArea4.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
-            chartArea4.AxisY.MajorTickMark.LineColor = System.Drawing.Color.White;
-            chartArea4.AxisY.Maximum = 100D;
-            chartArea4.AxisY.MinorGrid.LineColor = System.Drawing.Color.White;
-            chartArea4.AxisY.Title = "Memory Utilization %";
-            chartArea4.AxisY.TitleFont = new System.Drawing.Font("Gadugi", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea4.AxisY.TitleForeColor = System.Drawing.Color.White;
-            chartArea4.AxisY2.LineColor = System.Drawing.Color.White;
-            chartArea4.BackColor = System.Drawing.Color.Transparent;
-            chartArea4.BorderColor = System.Drawing.Color.White;
-            chartArea4.Name = "CPUArea";
-            chartArea4.ShadowColor = System.Drawing.Color.White;
-            this.chartRAM.ChartAreas.Add(chartArea4);
-            legend4.Enabled = false;
-            legend4.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            legend4.IsTextAutoFit = false;
-            legend4.Name = "Legend1";
-            legend4.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.chartRAM.Legends.Add(legend4);
+            chartArea12.AxisX.IsLabelAutoFit = false;
+            chartArea12.AxisX.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea12.AxisX.LabelStyle.ForeColor = System.Drawing.Color.White;
+            chartArea12.AxisX.LineColor = System.Drawing.Color.White;
+            chartArea12.AxisX.MajorGrid.LineColor = System.Drawing.Color.White;
+            chartArea12.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
+            chartArea12.AxisX.MajorTickMark.LineColor = System.Drawing.Color.White;
+            chartArea12.AxisX.MinorGrid.LineColor = System.Drawing.Color.White;
+            chartArea12.AxisX.Title = "Time in Seconds";
+            chartArea12.AxisX.TitleFont = new System.Drawing.Font("Gadugi", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea12.AxisX.TitleForeColor = System.Drawing.Color.White;
+            chartArea12.AxisX2.LineColor = System.Drawing.Color.White;
+            chartArea12.AxisY.IsLabelAutoFit = false;
+            chartArea12.AxisY.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea12.AxisY.LabelStyle.ForeColor = System.Drawing.Color.White;
+            chartArea12.AxisY.LineColor = System.Drawing.Color.White;
+            chartArea12.AxisY.MajorGrid.LineColor = System.Drawing.Color.White;
+            chartArea12.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
+            chartArea12.AxisY.MajorTickMark.LineColor = System.Drawing.Color.White;
+            chartArea12.AxisY.Maximum = 100D;
+            chartArea12.AxisY.MinorGrid.LineColor = System.Drawing.Color.White;
+            chartArea12.AxisY.Title = "Memory Utilization %";
+            chartArea12.AxisY.TitleFont = new System.Drawing.Font("Gadugi", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea12.AxisY.TitleForeColor = System.Drawing.Color.White;
+            chartArea12.AxisY2.LineColor = System.Drawing.Color.White;
+            chartArea12.BackColor = System.Drawing.Color.Transparent;
+            chartArea12.BorderColor = System.Drawing.Color.White;
+            chartArea12.Name = "CPUArea";
+            chartArea12.ShadowColor = System.Drawing.Color.White;
+            this.chartRAM.ChartAreas.Add(chartArea12);
+            legend12.Enabled = false;
+            legend12.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            legend12.IsTextAutoFit = false;
+            legend12.Name = "Legend1";
+            legend12.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.chartRAM.Legends.Add(legend12);
             this.chartRAM.Location = new System.Drawing.Point(3, 3);
             this.chartRAM.Name = "chartRAM";
             this.chartRAM.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.None;
             this.chartRAM.PaletteCustomColors = new System.Drawing.Color[] {
         System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))))};
-            series7.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
-            series7.ChartArea = "CPUArea";
-            series7.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Area;
-            series7.EmptyPointStyle.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
-            series7.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            series7.LabelBackColor = System.Drawing.Color.Transparent;
-            series7.LabelBorderColor = System.Drawing.Color.Transparent;
-            series7.LabelForeColor = System.Drawing.Color.White;
-            series7.Legend = "Legend1";
-            series7.Name = "RAM";
-            series7.ShadowColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.chartRAM.Series.Add(series7);
+            series18.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
+            series18.ChartArea = "CPUArea";
+            series18.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Area;
+            series18.EmptyPointStyle.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
+            series18.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            series18.LabelBackColor = System.Drawing.Color.Transparent;
+            series18.LabelBorderColor = System.Drawing.Color.Transparent;
+            series18.LabelForeColor = System.Drawing.Color.White;
+            series18.Legend = "Legend1";
+            series18.Name = "RAM";
+            series18.ShadowColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.chartRAM.Series.Add(series18);
             this.chartRAM.Size = new System.Drawing.Size(1175, 450);
             this.chartRAM.TabIndex = 12;
             this.chartRAM.TabStop = false;
             this.chartRAM.Text = "Memory Utilization";
-            title4.ForeColor = System.Drawing.Color.White;
-            title4.Name = "CPU Utilization";
-            this.chartRAM.Titles.Add(title4);
+            title12.ForeColor = System.Drawing.Color.White;
+            title12.Name = "CPU Utilization";
+            this.chartRAM.Titles.Add(title12);
             // 
             // pgGPU
             // 
@@ -1800,196 +1803,196 @@ namespace UDiagnose_2._0
             // 
             this.chartCompute0.BackColor = System.Drawing.Color.Transparent;
             this.chartCompute0.BorderSkin.BackColor = System.Drawing.Color.White;
-            chartArea5.AxisX.IsLabelAutoFit = false;
-            chartArea5.AxisX.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea5.AxisX.LabelStyle.ForeColor = System.Drawing.Color.White;
-            chartArea5.AxisX.LineColor = System.Drawing.Color.White;
-            chartArea5.AxisX.MajorGrid.LineColor = System.Drawing.Color.White;
-            chartArea5.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
-            chartArea5.AxisX.MajorTickMark.LineColor = System.Drawing.Color.White;
-            chartArea5.AxisX.MinorGrid.LineColor = System.Drawing.Color.White;
-            chartArea5.AxisX.Title = "Time in Seconds";
-            chartArea5.AxisX.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea5.AxisX.TitleForeColor = System.Drawing.Color.White;
-            chartArea5.AxisX2.LineColor = System.Drawing.Color.White;
-            chartArea5.AxisY.IsLabelAutoFit = false;
-            chartArea5.AxisY.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea5.AxisY.LabelStyle.ForeColor = System.Drawing.Color.White;
-            chartArea5.AxisY.LineColor = System.Drawing.Color.White;
-            chartArea5.AxisY.MajorGrid.LineColor = System.Drawing.Color.White;
-            chartArea5.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
-            chartArea5.AxisY.MajorTickMark.LineColor = System.Drawing.Color.White;
-            chartArea5.AxisY.Maximum = 100D;
-            chartArea5.AxisY.MinorGrid.LineColor = System.Drawing.Color.White;
-            chartArea5.AxisY.Title = "Compute %";
-            chartArea5.AxisY.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea5.AxisY.TitleForeColor = System.Drawing.Color.White;
-            chartArea5.AxisY2.LineColor = System.Drawing.Color.White;
-            chartArea5.BackColor = System.Drawing.Color.Transparent;
-            chartArea5.BorderColor = System.Drawing.Color.White;
-            chartArea5.Name = "CPUArea";
-            chartArea5.ShadowColor = System.Drawing.Color.White;
-            this.chartCompute0.ChartAreas.Add(chartArea5);
-            legend5.Enabled = false;
-            legend5.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            legend5.IsTextAutoFit = false;
-            legend5.Name = "Legend1";
-            legend5.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.chartCompute0.Legends.Add(legend5);
+            chartArea13.AxisX.IsLabelAutoFit = false;
+            chartArea13.AxisX.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea13.AxisX.LabelStyle.ForeColor = System.Drawing.Color.White;
+            chartArea13.AxisX.LineColor = System.Drawing.Color.White;
+            chartArea13.AxisX.MajorGrid.LineColor = System.Drawing.Color.White;
+            chartArea13.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
+            chartArea13.AxisX.MajorTickMark.LineColor = System.Drawing.Color.White;
+            chartArea13.AxisX.MinorGrid.LineColor = System.Drawing.Color.White;
+            chartArea13.AxisX.Title = "Time in Seconds";
+            chartArea13.AxisX.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea13.AxisX.TitleForeColor = System.Drawing.Color.White;
+            chartArea13.AxisX2.LineColor = System.Drawing.Color.White;
+            chartArea13.AxisY.IsLabelAutoFit = false;
+            chartArea13.AxisY.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea13.AxisY.LabelStyle.ForeColor = System.Drawing.Color.White;
+            chartArea13.AxisY.LineColor = System.Drawing.Color.White;
+            chartArea13.AxisY.MajorGrid.LineColor = System.Drawing.Color.White;
+            chartArea13.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
+            chartArea13.AxisY.MajorTickMark.LineColor = System.Drawing.Color.White;
+            chartArea13.AxisY.Maximum = 100D;
+            chartArea13.AxisY.MinorGrid.LineColor = System.Drawing.Color.White;
+            chartArea13.AxisY.Title = "Compute %";
+            chartArea13.AxisY.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea13.AxisY.TitleForeColor = System.Drawing.Color.White;
+            chartArea13.AxisY2.LineColor = System.Drawing.Color.White;
+            chartArea13.BackColor = System.Drawing.Color.Transparent;
+            chartArea13.BorderColor = System.Drawing.Color.White;
+            chartArea13.Name = "CPUArea";
+            chartArea13.ShadowColor = System.Drawing.Color.White;
+            this.chartCompute0.ChartAreas.Add(chartArea13);
+            legend13.Enabled = false;
+            legend13.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            legend13.IsTextAutoFit = false;
+            legend13.Name = "Legend1";
+            legend13.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.chartCompute0.Legends.Add(legend13);
             this.chartCompute0.Location = new System.Drawing.Point(591, 234);
             this.chartCompute0.Name = "chartCompute0";
             this.chartCompute0.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.None;
             this.chartCompute0.PaletteCustomColors = new System.Drawing.Color[] {
         System.Drawing.Color.LawnGreen};
-            series8.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
-            series8.ChartArea = "CPUArea";
-            series8.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Area;
-            series8.EmptyPointStyle.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
-            series8.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            series8.LabelBackColor = System.Drawing.Color.Transparent;
-            series8.LabelBorderColor = System.Drawing.Color.Transparent;
-            series8.LabelForeColor = System.Drawing.Color.White;
-            series8.Legend = "Legend1";
-            series8.Name = "GPU";
-            series8.ShadowColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.chartCompute0.Series.Add(series8);
+            series19.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
+            series19.ChartArea = "CPUArea";
+            series19.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Area;
+            series19.EmptyPointStyle.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
+            series19.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            series19.LabelBackColor = System.Drawing.Color.Transparent;
+            series19.LabelBorderColor = System.Drawing.Color.Transparent;
+            series19.LabelForeColor = System.Drawing.Color.White;
+            series19.Legend = "Legend1";
+            series19.Name = "GPU";
+            series19.ShadowColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.chartCompute0.Series.Add(series19);
             this.chartCompute0.Size = new System.Drawing.Size(575, 225);
             this.chartCompute0.TabIndex = 72;
             this.chartCompute0.TabStop = false;
             this.chartCompute0.Text = "GPU Utilization";
-            title5.ForeColor = System.Drawing.Color.White;
-            title5.Name = "CPU Utilization";
-            this.chartCompute0.Titles.Add(title5);
+            title13.ForeColor = System.Drawing.Color.White;
+            title13.Name = "CPU Utilization";
+            this.chartCompute0.Titles.Add(title13);
             // 
             // chartVideoDecode
             // 
             this.chartVideoDecode.BackColor = System.Drawing.Color.Transparent;
             this.chartVideoDecode.BorderSkin.BackColor = System.Drawing.Color.White;
-            chartArea6.AxisX.IsLabelAutoFit = false;
-            chartArea6.AxisX.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea6.AxisX.LabelStyle.ForeColor = System.Drawing.Color.White;
-            chartArea6.AxisX.LineColor = System.Drawing.Color.White;
-            chartArea6.AxisX.MajorGrid.LineColor = System.Drawing.Color.White;
-            chartArea6.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
-            chartArea6.AxisX.MajorTickMark.LineColor = System.Drawing.Color.White;
-            chartArea6.AxisX.MinorGrid.LineColor = System.Drawing.Color.White;
-            chartArea6.AxisX.Title = "Time in Seconds";
-            chartArea6.AxisX.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea6.AxisX.TitleForeColor = System.Drawing.Color.White;
-            chartArea6.AxisX2.LineColor = System.Drawing.Color.White;
-            chartArea6.AxisY.IsLabelAutoFit = false;
-            chartArea6.AxisY.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea6.AxisY.LabelStyle.ForeColor = System.Drawing.Color.White;
-            chartArea6.AxisY.LineColor = System.Drawing.Color.White;
-            chartArea6.AxisY.MajorGrid.LineColor = System.Drawing.Color.White;
-            chartArea6.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
-            chartArea6.AxisY.MajorTickMark.LineColor = System.Drawing.Color.White;
-            chartArea6.AxisY.Maximum = 100D;
-            chartArea6.AxisY.MinorGrid.LineColor = System.Drawing.Color.White;
-            chartArea6.AxisY.Title = "Video Utilization %";
-            chartArea6.AxisY.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea6.AxisY.TitleForeColor = System.Drawing.Color.White;
-            chartArea6.AxisY2.LineColor = System.Drawing.Color.White;
-            chartArea6.BackColor = System.Drawing.Color.Transparent;
-            chartArea6.BorderColor = System.Drawing.Color.White;
-            chartArea6.Name = "CPUArea";
-            chartArea6.ShadowColor = System.Drawing.Color.White;
-            this.chartVideoDecode.ChartAreas.Add(chartArea6);
-            legend6.Enabled = false;
-            legend6.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            legend6.IsTextAutoFit = false;
-            legend6.Name = "Legend1";
-            legend6.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.chartVideoDecode.Legends.Add(legend6);
+            chartArea14.AxisX.IsLabelAutoFit = false;
+            chartArea14.AxisX.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea14.AxisX.LabelStyle.ForeColor = System.Drawing.Color.White;
+            chartArea14.AxisX.LineColor = System.Drawing.Color.White;
+            chartArea14.AxisX.MajorGrid.LineColor = System.Drawing.Color.White;
+            chartArea14.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
+            chartArea14.AxisX.MajorTickMark.LineColor = System.Drawing.Color.White;
+            chartArea14.AxisX.MinorGrid.LineColor = System.Drawing.Color.White;
+            chartArea14.AxisX.Title = "Time in Seconds";
+            chartArea14.AxisX.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea14.AxisX.TitleForeColor = System.Drawing.Color.White;
+            chartArea14.AxisX2.LineColor = System.Drawing.Color.White;
+            chartArea14.AxisY.IsLabelAutoFit = false;
+            chartArea14.AxisY.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea14.AxisY.LabelStyle.ForeColor = System.Drawing.Color.White;
+            chartArea14.AxisY.LineColor = System.Drawing.Color.White;
+            chartArea14.AxisY.MajorGrid.LineColor = System.Drawing.Color.White;
+            chartArea14.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
+            chartArea14.AxisY.MajorTickMark.LineColor = System.Drawing.Color.White;
+            chartArea14.AxisY.Maximum = 100D;
+            chartArea14.AxisY.MinorGrid.LineColor = System.Drawing.Color.White;
+            chartArea14.AxisY.Title = "Video Utilization %";
+            chartArea14.AxisY.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea14.AxisY.TitleForeColor = System.Drawing.Color.White;
+            chartArea14.AxisY2.LineColor = System.Drawing.Color.White;
+            chartArea14.BackColor = System.Drawing.Color.Transparent;
+            chartArea14.BorderColor = System.Drawing.Color.White;
+            chartArea14.Name = "CPUArea";
+            chartArea14.ShadowColor = System.Drawing.Color.White;
+            this.chartVideoDecode.ChartAreas.Add(chartArea14);
+            legend14.Enabled = false;
+            legend14.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            legend14.IsTextAutoFit = false;
+            legend14.Name = "Legend1";
+            legend14.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.chartVideoDecode.Legends.Add(legend14);
             this.chartVideoDecode.Location = new System.Drawing.Point(3, 234);
             this.chartVideoDecode.Name = "chartVideoDecode";
             this.chartVideoDecode.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.None;
             this.chartVideoDecode.PaletteCustomColors = new System.Drawing.Color[] {
         System.Drawing.Color.LawnGreen};
-            series9.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
-            series9.ChartArea = "CPUArea";
-            series9.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Area;
-            series9.EmptyPointStyle.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
-            series9.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            series9.LabelBackColor = System.Drawing.Color.Transparent;
-            series9.LabelBorderColor = System.Drawing.Color.Transparent;
-            series9.LabelForeColor = System.Drawing.Color.White;
-            series9.Legend = "Legend1";
-            series9.Name = "GPU";
-            series9.ShadowColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.chartVideoDecode.Series.Add(series9);
+            series20.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
+            series20.ChartArea = "CPUArea";
+            series20.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Area;
+            series20.EmptyPointStyle.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
+            series20.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            series20.LabelBackColor = System.Drawing.Color.Transparent;
+            series20.LabelBorderColor = System.Drawing.Color.Transparent;
+            series20.LabelForeColor = System.Drawing.Color.White;
+            series20.Legend = "Legend1";
+            series20.Name = "GPU";
+            series20.ShadowColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.chartVideoDecode.Series.Add(series20);
             this.chartVideoDecode.Size = new System.Drawing.Size(575, 225);
             this.chartVideoDecode.TabIndex = 71;
             this.chartVideoDecode.TabStop = false;
             this.chartVideoDecode.Text = "GPU Utilization";
-            title6.ForeColor = System.Drawing.Color.White;
-            title6.Name = "CPU Utilization";
-            this.chartVideoDecode.Titles.Add(title6);
+            title14.ForeColor = System.Drawing.Color.White;
+            title14.Name = "CPU Utilization";
+            this.chartVideoDecode.Titles.Add(title14);
             // 
             // chartCopy
             // 
             this.chartCopy.BackColor = System.Drawing.Color.Transparent;
             this.chartCopy.BorderSkin.BackColor = System.Drawing.Color.White;
-            chartArea7.AxisX.IsLabelAutoFit = false;
-            chartArea7.AxisX.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea7.AxisX.LabelStyle.ForeColor = System.Drawing.Color.White;
-            chartArea7.AxisX.LineColor = System.Drawing.Color.White;
-            chartArea7.AxisX.MajorGrid.LineColor = System.Drawing.Color.White;
-            chartArea7.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
-            chartArea7.AxisX.MajorTickMark.LineColor = System.Drawing.Color.White;
-            chartArea7.AxisX.MinorGrid.LineColor = System.Drawing.Color.White;
-            chartArea7.AxisX.Title = "Time in Seconds";
-            chartArea7.AxisX.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea7.AxisX.TitleForeColor = System.Drawing.Color.White;
-            chartArea7.AxisX2.LineColor = System.Drawing.Color.White;
-            chartArea7.AxisY.IsLabelAutoFit = false;
-            chartArea7.AxisY.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea7.AxisY.LabelStyle.ForeColor = System.Drawing.Color.White;
-            chartArea7.AxisY.LineColor = System.Drawing.Color.White;
-            chartArea7.AxisY.MajorGrid.LineColor = System.Drawing.Color.White;
-            chartArea7.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
-            chartArea7.AxisY.MajorTickMark.LineColor = System.Drawing.Color.White;
-            chartArea7.AxisY.Maximum = 100D;
-            chartArea7.AxisY.MinorGrid.LineColor = System.Drawing.Color.White;
-            chartArea7.AxisY.Title = "Copy %";
-            chartArea7.AxisY.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea7.AxisY.TitleForeColor = System.Drawing.Color.White;
-            chartArea7.AxisY2.LineColor = System.Drawing.Color.White;
-            chartArea7.BackColor = System.Drawing.Color.Transparent;
-            chartArea7.BorderColor = System.Drawing.Color.White;
-            chartArea7.Name = "CPUArea";
-            chartArea7.ShadowColor = System.Drawing.Color.White;
-            this.chartCopy.ChartAreas.Add(chartArea7);
-            legend7.Enabled = false;
-            legend7.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            legend7.IsTextAutoFit = false;
-            legend7.Name = "Legend1";
-            legend7.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.chartCopy.Legends.Add(legend7);
+            chartArea15.AxisX.IsLabelAutoFit = false;
+            chartArea15.AxisX.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea15.AxisX.LabelStyle.ForeColor = System.Drawing.Color.White;
+            chartArea15.AxisX.LineColor = System.Drawing.Color.White;
+            chartArea15.AxisX.MajorGrid.LineColor = System.Drawing.Color.White;
+            chartArea15.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
+            chartArea15.AxisX.MajorTickMark.LineColor = System.Drawing.Color.White;
+            chartArea15.AxisX.MinorGrid.LineColor = System.Drawing.Color.White;
+            chartArea15.AxisX.Title = "Time in Seconds";
+            chartArea15.AxisX.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea15.AxisX.TitleForeColor = System.Drawing.Color.White;
+            chartArea15.AxisX2.LineColor = System.Drawing.Color.White;
+            chartArea15.AxisY.IsLabelAutoFit = false;
+            chartArea15.AxisY.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea15.AxisY.LabelStyle.ForeColor = System.Drawing.Color.White;
+            chartArea15.AxisY.LineColor = System.Drawing.Color.White;
+            chartArea15.AxisY.MajorGrid.LineColor = System.Drawing.Color.White;
+            chartArea15.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
+            chartArea15.AxisY.MajorTickMark.LineColor = System.Drawing.Color.White;
+            chartArea15.AxisY.Maximum = 100D;
+            chartArea15.AxisY.MinorGrid.LineColor = System.Drawing.Color.White;
+            chartArea15.AxisY.Title = "Copy %";
+            chartArea15.AxisY.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea15.AxisY.TitleForeColor = System.Drawing.Color.White;
+            chartArea15.AxisY2.LineColor = System.Drawing.Color.White;
+            chartArea15.BackColor = System.Drawing.Color.Transparent;
+            chartArea15.BorderColor = System.Drawing.Color.White;
+            chartArea15.Name = "CPUArea";
+            chartArea15.ShadowColor = System.Drawing.Color.White;
+            this.chartCopy.ChartAreas.Add(chartArea15);
+            legend15.Enabled = false;
+            legend15.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            legend15.IsTextAutoFit = false;
+            legend15.Name = "Legend1";
+            legend15.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.chartCopy.Legends.Add(legend15);
             this.chartCopy.Location = new System.Drawing.Point(591, 3);
             this.chartCopy.Name = "chartCopy";
             this.chartCopy.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.None;
             this.chartCopy.PaletteCustomColors = new System.Drawing.Color[] {
         System.Drawing.Color.LawnGreen};
-            series10.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
-            series10.ChartArea = "CPUArea";
-            series10.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Area;
-            series10.EmptyPointStyle.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
-            series10.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            series10.LabelBackColor = System.Drawing.Color.Transparent;
-            series10.LabelBorderColor = System.Drawing.Color.Transparent;
-            series10.LabelForeColor = System.Drawing.Color.White;
-            series10.Legend = "Legend1";
-            series10.Name = "GPU";
-            series10.ShadowColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.chartCopy.Series.Add(series10);
+            series21.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
+            series21.ChartArea = "CPUArea";
+            series21.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Area;
+            series21.EmptyPointStyle.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
+            series21.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            series21.LabelBackColor = System.Drawing.Color.Transparent;
+            series21.LabelBorderColor = System.Drawing.Color.Transparent;
+            series21.LabelForeColor = System.Drawing.Color.White;
+            series21.Legend = "Legend1";
+            series21.Name = "GPU";
+            series21.ShadowColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.chartCopy.Series.Add(series21);
             this.chartCopy.Size = new System.Drawing.Size(575, 225);
             this.chartCopy.TabIndex = 70;
             this.chartCopy.TabStop = false;
             this.chartCopy.Text = "GPU Utilization";
-            title7.ForeColor = System.Drawing.Color.White;
-            title7.Name = "CPU Utilization";
-            this.chartCopy.Titles.Add(title7);
+            title15.ForeColor = System.Drawing.Color.White;
+            title15.Name = "CPU Utilization";
+            this.chartCopy.Titles.Add(title15);
             // 
             // lblPGGPUName
             // 
@@ -2019,66 +2022,66 @@ namespace UDiagnose_2._0
             // 
             this.chart3D.BackColor = System.Drawing.Color.Transparent;
             this.chart3D.BorderSkin.BackColor = System.Drawing.Color.White;
-            chartArea8.AxisX.IsLabelAutoFit = false;
-            chartArea8.AxisX.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea8.AxisX.LabelStyle.ForeColor = System.Drawing.Color.White;
-            chartArea8.AxisX.LineColor = System.Drawing.Color.White;
-            chartArea8.AxisX.MajorGrid.LineColor = System.Drawing.Color.White;
-            chartArea8.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
-            chartArea8.AxisX.MajorTickMark.LineColor = System.Drawing.Color.White;
-            chartArea8.AxisX.MinorGrid.LineColor = System.Drawing.Color.White;
-            chartArea8.AxisX.Title = "Time in Seconds";
-            chartArea8.AxisX.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea8.AxisX.TitleForeColor = System.Drawing.Color.White;
-            chartArea8.AxisX2.LineColor = System.Drawing.Color.White;
-            chartArea8.AxisY.IsLabelAutoFit = false;
-            chartArea8.AxisY.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea8.AxisY.LabelStyle.ForeColor = System.Drawing.Color.White;
-            chartArea8.AxisY.LineColor = System.Drawing.Color.White;
-            chartArea8.AxisY.MajorGrid.LineColor = System.Drawing.Color.White;
-            chartArea8.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
-            chartArea8.AxisY.MajorTickMark.LineColor = System.Drawing.Color.White;
-            chartArea8.AxisY.Maximum = 100D;
-            chartArea8.AxisY.MinorGrid.LineColor = System.Drawing.Color.White;
-            chartArea8.AxisY.Title = "3D Utilization %";
-            chartArea8.AxisY.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            chartArea8.AxisY.TitleForeColor = System.Drawing.Color.White;
-            chartArea8.AxisY2.LineColor = System.Drawing.Color.White;
-            chartArea8.BackColor = System.Drawing.Color.Transparent;
-            chartArea8.BorderColor = System.Drawing.Color.White;
-            chartArea8.Name = "CPUArea";
-            chartArea8.ShadowColor = System.Drawing.Color.White;
-            this.chart3D.ChartAreas.Add(chartArea8);
-            legend8.Enabled = false;
-            legend8.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            legend8.IsTextAutoFit = false;
-            legend8.Name = "Legend1";
-            legend8.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.chart3D.Legends.Add(legend8);
+            chartArea16.AxisX.IsLabelAutoFit = false;
+            chartArea16.AxisX.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea16.AxisX.LabelStyle.ForeColor = System.Drawing.Color.White;
+            chartArea16.AxisX.LineColor = System.Drawing.Color.White;
+            chartArea16.AxisX.MajorGrid.LineColor = System.Drawing.Color.White;
+            chartArea16.AxisX.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
+            chartArea16.AxisX.MajorTickMark.LineColor = System.Drawing.Color.White;
+            chartArea16.AxisX.MinorGrid.LineColor = System.Drawing.Color.White;
+            chartArea16.AxisX.Title = "Time in Seconds";
+            chartArea16.AxisX.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea16.AxisX.TitleForeColor = System.Drawing.Color.White;
+            chartArea16.AxisX2.LineColor = System.Drawing.Color.White;
+            chartArea16.AxisY.IsLabelAutoFit = false;
+            chartArea16.AxisY.LabelStyle.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea16.AxisY.LabelStyle.ForeColor = System.Drawing.Color.White;
+            chartArea16.AxisY.LineColor = System.Drawing.Color.White;
+            chartArea16.AxisY.MajorGrid.LineColor = System.Drawing.Color.White;
+            chartArea16.AxisY.MajorGrid.LineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Dot;
+            chartArea16.AxisY.MajorTickMark.LineColor = System.Drawing.Color.White;
+            chartArea16.AxisY.Maximum = 100D;
+            chartArea16.AxisY.MinorGrid.LineColor = System.Drawing.Color.White;
+            chartArea16.AxisY.Title = "3D Utilization %";
+            chartArea16.AxisY.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            chartArea16.AxisY.TitleForeColor = System.Drawing.Color.White;
+            chartArea16.AxisY2.LineColor = System.Drawing.Color.White;
+            chartArea16.BackColor = System.Drawing.Color.Transparent;
+            chartArea16.BorderColor = System.Drawing.Color.White;
+            chartArea16.Name = "CPUArea";
+            chartArea16.ShadowColor = System.Drawing.Color.White;
+            this.chart3D.ChartAreas.Add(chartArea16);
+            legend16.Enabled = false;
+            legend16.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            legend16.IsTextAutoFit = false;
+            legend16.Name = "Legend1";
+            legend16.TitleFont = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.chart3D.Legends.Add(legend16);
             this.chart3D.Location = new System.Drawing.Point(3, 3);
             this.chart3D.Name = "chart3D";
             this.chart3D.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.None;
             this.chart3D.PaletteCustomColors = new System.Drawing.Color[] {
         System.Drawing.Color.LawnGreen};
-            series11.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
-            series11.ChartArea = "CPUArea";
-            series11.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Area;
-            series11.EmptyPointStyle.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
-            series11.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            series11.LabelBackColor = System.Drawing.Color.Transparent;
-            series11.LabelBorderColor = System.Drawing.Color.Transparent;
-            series11.LabelForeColor = System.Drawing.Color.White;
-            series11.Legend = "Legend1";
-            series11.Name = "GPU";
-            series11.ShadowColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.chart3D.Series.Add(series11);
+            series22.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
+            series22.ChartArea = "CPUArea";
+            series22.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Area;
+            series22.EmptyPointStyle.BackGradientStyle = System.Windows.Forms.DataVisualization.Charting.GradientStyle.TopBottom;
+            series22.Font = new System.Drawing.Font("Gadugi", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            series22.LabelBackColor = System.Drawing.Color.Transparent;
+            series22.LabelBorderColor = System.Drawing.Color.Transparent;
+            series22.LabelForeColor = System.Drawing.Color.White;
+            series22.Legend = "Legend1";
+            series22.Name = "GPU";
+            series22.ShadowColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.chart3D.Series.Add(series22);
             this.chart3D.Size = new System.Drawing.Size(575, 225);
             this.chart3D.TabIndex = 11;
             this.chart3D.TabStop = false;
             this.chart3D.Text = "GPU Utilization";
-            title8.ForeColor = System.Drawing.Color.White;
-            title8.Name = "CPU Utilization";
-            this.chart3D.Titles.Add(title8);
+            title16.ForeColor = System.Drawing.Color.White;
+            title16.Name = "CPU Utilization";
+            this.chart3D.Titles.Add(title16);
             // 
             // lblVersion
             // 
@@ -2100,20 +2103,31 @@ namespace UDiagnose_2._0
             // 
             this.mainMenuStrip.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(45)))));
             this.mainMenuStrip.ForeColor = System.Drawing.Color.WhiteSmoke;
+            this.mainMenuStrip.ImageMarginGradientBegin = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(45)))));
+            this.mainMenuStrip.ImageMarginGradientEnd = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(45)))));
+            this.mainMenuStrip.ImageMarginGradientMiddle = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(45)))));
             this.mainMenuStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.fileToolStripMenuItem1,
             this.toolsToolStripMenuItem1,
             this.optionsToolStripMenuItem2,
             this.helpToolStripMenuItem1});
             this.mainMenuStrip.Location = new System.Drawing.Point(10, 60);
-            this.mainMenuStrip.MenuBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(45)))));
-            this.mainMenuStrip.MenuForeColor = System.Drawing.Color.WhiteSmoke;
+            this.mainMenuStrip.MenuBorder = System.Drawing.Color.LightBlue;
+            this.mainMenuStrip.MenuItemBorder = System.Drawing.Color.LightBlue;
+            this.mainMenuStrip.MenuItemPressedGradientBegin = System.Drawing.Color.LightBlue;
+            this.mainMenuStrip.MenuItemPressedGradientEnd = System.Drawing.Color.FromArgb(((int)(((byte)(125)))), ((int)(((byte)(173)))), ((int)(((byte)(216)))), ((int)(((byte)(230)))));
+            this.mainMenuStrip.MenuItemSelected = System.Drawing.Color.LightBlue;
+            this.mainMenuStrip.MenuItemSelectedGradientBegin = System.Drawing.Color.LightBlue;
+            this.mainMenuStrip.MenuItemSelectedGradientEnd = System.Drawing.Color.LightBlue;
+            this.mainMenuStrip.MenuStripForeColor = System.Drawing.Color.WhiteSmoke;
+            this.mainMenuStrip.MenuStripGradientBegin = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(45)))));
+            this.mainMenuStrip.MenuStripGradientEnd = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(45)))));
+            this.mainMenuStrip.MenuStripSelectedForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(45)))));
             this.mainMenuStrip.Name = "mainMenuStrip";
-            this.mainMenuStrip.SelectionColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(100)))), ((int)(((byte)(100)))));
             this.mainMenuStrip.Size = new System.Drawing.Size(1433, 24);
             this.mainMenuStrip.TabIndex = 5;
             this.mainMenuStrip.Text = "menuStripExtended1";
-            this.mainMenuStrip.Theme = menuStripExtended.MenuStripExtended.ControlTheme.Default;
+            this.mainMenuStrip.Theme = ExtendedControls.MenuStripExtended.ControlTheme.Dark;
             // 
             // fileToolStripMenuItem1
             // 
@@ -2121,6 +2135,7 @@ namespace UDiagnose_2._0
             this.saveToolStripMenuItem,
             this.toolStripSeparator1,
             this.exitToolStripMenuItem});
+            this.fileToolStripMenuItem1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(45)))));
             this.fileToolStripMenuItem1.Name = "fileToolStripMenuItem1";
             this.fileToolStripMenuItem1.Size = new System.Drawing.Size(37, 20);
             this.fileToolStripMenuItem1.Text = "&File";
@@ -2131,20 +2146,21 @@ namespace UDiagnose_2._0
             this.saveToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("saveToolStripMenuItem.Image")));
             this.saveToolStripMenuItem.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.saveToolStripMenuItem.Name = "saveToolStripMenuItem";
-            this.saveToolStripMenuItem.Size = new System.Drawing.Size(98, 22);
-            this.saveToolStripMenuItem.Text = "&Save";
+            this.saveToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.S)));
+            this.saveToolStripMenuItem.Size = new System.Drawing.Size(216, 22);
+            this.saveToolStripMenuItem.Text = "Save Hardware Info";
             this.saveToolStripMenuItem.Click += new System.EventHandler(this.btnSaveInfo_Click);
             // 
             // toolStripSeparator1
             // 
             this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(95, 6);
+            this.toolStripSeparator1.Size = new System.Drawing.Size(213, 6);
             // 
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(98, 22);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(216, 22);
             this.exitToolStripMenuItem.Text = "E&xit";
             this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
             // 
@@ -2154,7 +2170,9 @@ namespace UDiagnose_2._0
             this.diskPartitionToolStripMenuItem1,
             this.cMDToolStripMenuItem1,
             this.regeditToolStripMenuItem1,
-            this.eventViewerToolStripMenuItem1});
+            this.eventViewerToolStripMenuItem1,
+            this.recordToolStripMenuItem});
+            this.toolsToolStripMenuItem1.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.toolsToolStripMenuItem1.Name = "toolsToolStripMenuItem1";
             this.toolsToolStripMenuItem1.Size = new System.Drawing.Size(46, 20);
             this.toolsToolStripMenuItem1.Text = "&Tools";
@@ -2163,7 +2181,8 @@ namespace UDiagnose_2._0
             // 
             this.diskPartitionToolStripMenuItem1.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.diskPartitionToolStripMenuItem1.Name = "diskPartitionToolStripMenuItem1";
-            this.diskPartitionToolStripMenuItem1.Size = new System.Drawing.Size(144, 22);
+            this.diskPartitionToolStripMenuItem1.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.D)));
+            this.diskPartitionToolStripMenuItem1.Size = new System.Drawing.Size(186, 22);
             this.diskPartitionToolStripMenuItem1.Text = "Disk Partition";
             this.diskPartitionToolStripMenuItem1.Click += new System.EventHandler(this.diskPartitionToolStripMenuItem_Click);
             // 
@@ -2171,7 +2190,9 @@ namespace UDiagnose_2._0
             // 
             this.cMDToolStripMenuItem1.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.cMDToolStripMenuItem1.Name = "cMDToolStripMenuItem1";
-            this.cMDToolStripMenuItem1.Size = new System.Drawing.Size(144, 22);
+            this.cMDToolStripMenuItem1.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Shift) 
+            | System.Windows.Forms.Keys.C)));
+            this.cMDToolStripMenuItem1.Size = new System.Drawing.Size(186, 22);
             this.cMDToolStripMenuItem1.Text = "CMD";
             this.cMDToolStripMenuItem1.Click += new System.EventHandler(this.cMDToolStripMenuItem_Click);
             // 
@@ -2179,7 +2200,8 @@ namespace UDiagnose_2._0
             // 
             this.regeditToolStripMenuItem1.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.regeditToolStripMenuItem1.Name = "regeditToolStripMenuItem1";
-            this.regeditToolStripMenuItem1.Size = new System.Drawing.Size(144, 22);
+            this.regeditToolStripMenuItem1.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.R)));
+            this.regeditToolStripMenuItem1.Size = new System.Drawing.Size(186, 22);
             this.regeditToolStripMenuItem1.Text = "Regedit";
             this.regeditToolStripMenuItem1.Click += new System.EventHandler(this.regEditToolStripMenuItem_Click);
             // 
@@ -2187,14 +2209,26 @@ namespace UDiagnose_2._0
             // 
             this.eventViewerToolStripMenuItem1.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.eventViewerToolStripMenuItem1.Name = "eventViewerToolStripMenuItem1";
-            this.eventViewerToolStripMenuItem1.Size = new System.Drawing.Size(144, 22);
+            this.eventViewerToolStripMenuItem1.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.E)));
+            this.eventViewerToolStripMenuItem1.Size = new System.Drawing.Size(186, 22);
             this.eventViewerToolStripMenuItem1.Text = "Event Viewer";
             this.eventViewerToolStripMenuItem1.Click += new System.EventHandler(this.eventViewerToolStripMenuItem_Click);
+            // 
+            // recordToolStripMenuItem
+            // 
+            this.recordToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.startRecordingDataToolStripMenuItem,
+            this.stopRecordingDataToolStripMenuItem});
+            this.recordToolStripMenuItem.ForeColor = System.Drawing.Color.WhiteSmoke;
+            this.recordToolStripMenuItem.Name = "recordToolStripMenuItem";
+            this.recordToolStripMenuItem.Size = new System.Drawing.Size(186, 22);
+            this.recordToolStripMenuItem.Text = "Record";
             // 
             // optionsToolStripMenuItem2
             // 
             this.optionsToolStripMenuItem2.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.settingsToolStripMenuItem1});
+            this.optionsToolStripMenuItem2.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.optionsToolStripMenuItem2.Name = "optionsToolStripMenuItem2";
             this.optionsToolStripMenuItem2.Size = new System.Drawing.Size(61, 20);
             this.optionsToolStripMenuItem2.Text = "Options";
@@ -2203,7 +2237,7 @@ namespace UDiagnose_2._0
             // 
             this.settingsToolStripMenuItem1.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.settingsToolStripMenuItem1.Name = "settingsToolStripMenuItem1";
-            this.settingsToolStripMenuItem1.Size = new System.Drawing.Size(116, 22);
+            this.settingsToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
             this.settingsToolStripMenuItem1.Text = "Settings";
             // 
             // helpToolStripMenuItem1
@@ -2211,6 +2245,7 @@ namespace UDiagnose_2._0
             this.helpToolStripMenuItem1.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.licenseToolStripMenuItem,
             this.aboutToolStripMenuItem});
+            this.helpToolStripMenuItem1.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.helpToolStripMenuItem1.Name = "helpToolStripMenuItem1";
             this.helpToolStripMenuItem1.Size = new System.Drawing.Size(44, 20);
             this.helpToolStripMenuItem1.Text = "&Help";
@@ -2219,7 +2254,7 @@ namespace UDiagnose_2._0
             // 
             this.licenseToolStripMenuItem.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.licenseToolStripMenuItem.Name = "licenseToolStripMenuItem";
-            this.licenseToolStripMenuItem.Size = new System.Drawing.Size(113, 22);
+            this.licenseToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.licenseToolStripMenuItem.Text = "License";
             this.licenseToolStripMenuItem.Click += new System.EventHandler(this.licenceToolStripMenuItem_Click);
             // 
@@ -2227,8 +2262,24 @@ namespace UDiagnose_2._0
             // 
             this.aboutToolStripMenuItem.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
-            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(113, 22);
+            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.aboutToolStripMenuItem.Text = "About";
+            // 
+            // startRecordingDataToolStripMenuItem
+            // 
+            this.startRecordingDataToolStripMenuItem.ForeColor = System.Drawing.Color.WhiteSmoke;
+            this.startRecordingDataToolStripMenuItem.Name = "startRecordingDataToolStripMenuItem";
+            this.startRecordingDataToolStripMenuItem.ShortcutKeys = System.Windows.Forms.Keys.F5;
+            this.startRecordingDataToolStripMenuItem.Size = new System.Drawing.Size(201, 22);
+            this.startRecordingDataToolStripMenuItem.Text = "Start Recording Data";
+            // 
+            // stopRecordingDataToolStripMenuItem
+            // 
+            this.stopRecordingDataToolStripMenuItem.ForeColor = System.Drawing.Color.WhiteSmoke;
+            this.stopRecordingDataToolStripMenuItem.Name = "stopRecordingDataToolStripMenuItem";
+            this.stopRecordingDataToolStripMenuItem.ShortcutKeys = System.Windows.Forms.Keys.F4;
+            this.stopRecordingDataToolStripMenuItem.Size = new System.Drawing.Size(201, 22);
+            this.stopRecordingDataToolStripMenuItem.Text = "Stop Recording Data";
             // 
             // frmMain
             // 
@@ -2375,7 +2426,7 @@ namespace UDiagnose_2._0
         private System.Windows.Forms.ToolStripMenuItem systemPerformanceToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem pauseToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem resumeToolStripMenuItem;
-        private menuStripExtended.MenuStripExtended mainMenuStrip;
+        private ExtendedControls.MenuStripExtended mainMenuStrip;
         private System.Windows.Forms.ToolStripMenuItem fileToolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem saveToolStripMenuItem;
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator1;
@@ -2410,6 +2461,9 @@ namespace UDiagnose_2._0
         public System.Windows.Forms.Label label38;
         public System.Windows.Forms.Label label39;
         public System.Windows.Forms.Label label40;
+        private System.Windows.Forms.ToolStripMenuItem recordToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem startRecordingDataToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem stopRecordingDataToolStripMenuItem;
     }
 }
 
