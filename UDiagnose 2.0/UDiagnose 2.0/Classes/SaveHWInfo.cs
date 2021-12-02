@@ -32,16 +32,16 @@ namespace UDiagnose_2._0.Classes
         {
             string location = "";
             //Set it's name
-            mainForm.saveFileDialog1.FileName = "HardWare Info ";
+            mainForm.saveHardWareInfo.FileName = "HardWare Info ";
             //Set the extention
-            mainForm.saveFileDialog1.DefaultExt = ".txt";
+            mainForm.saveHardWareInfo.DefaultExt = ".txt";
             //Filters that can be used for the file
-            mainForm.saveFileDialog1.Filter = "Text Files|*.txt";
+            mainForm.saveHardWareInfo.Filter = "Text Files|*.txt";
 
             //Show the dialog
-            mainForm.saveFileDialog1.ShowDialog();
+            mainForm.saveHardWareInfo.ShowDialog();
             //Save the filename to the variable string location
-            location = mainForm.saveFileDialog1.FileName;
+            location = mainForm.saveHardWareInfo.FileName;
 
             // create buffer for storing string data
             System.Text.StringBuilder buffer = new System.Text.StringBuilder();

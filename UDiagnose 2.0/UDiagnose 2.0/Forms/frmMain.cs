@@ -1,11 +1,13 @@
 ﻿using System;
 using MetroFramework.Forms;
+using Krypton.Toolkit;
 using System.Windows.Forms;
 using System.Diagnostics;
 using UDiagnose_2._0.Classes;
 using System.Timers;
 using System.Threading;
 using UDiagnose_2._0.Forms;
+
 namespace UDiagnose_2._0
 {
     public partial class frmMain : MetroForm
